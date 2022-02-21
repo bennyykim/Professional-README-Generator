@@ -36,7 +36,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'tests',
+        name: 'test',
         message: 'Commands on how to run test.',
     },
     {
